@@ -11,9 +11,7 @@ textarea {
     line-height: 1.4;
     width:800px;
     height: 200px;
-    left:50%;
-    text-align: center;
-    margin:1rem 30rem;
+    /* margin:1rem 30rem; */
     overflow: scroll;
 }
 textarea:hover{
