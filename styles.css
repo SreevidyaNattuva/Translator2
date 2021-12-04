@@ -22,6 +22,7 @@ textarea:hover{
 body{
     font-family: 'Heebo', sans-serif;
     background-color: rgb(132, 192, 219);
+    text-align: center;
 }
 #btn-translate{
     
